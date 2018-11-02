@@ -10,8 +10,25 @@
 		000C124C218B4A9E00FD9B4B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 000C124B218B4A9E00FD9B4B /* AppDelegate.swift */; };
 		000C124E218B4A9E00FD9B4B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 000C124D218B4A9E00FD9B4B /* ViewController.swift */; };
 		000C1251218B4A9E00FD9B4B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 000C124F218B4A9E00FD9B4B /* Main.storyboard */; };
-		000C1253218B4AA000FD9B4B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 000C1252218B4AA000FD9B4B /* Assets.xcassets */; };
 		000C1256218B4AA000FD9B4B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 000C1254218B4AA000FD9B4B /* LaunchScreen.storyboard */; };
+		000C126E218B4AFF00FD9B4B /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 000C125D218B4AFA00FD9B4B /* index.html */; };
+		000C126F218B4AFF00FD9B4B /* tour.html in Resources */ = {isa = PBXBuildFile; fileRef = 000C125E218B4AFA00FD9B4B /* tour.html */; };
+		000C1270218B4AFF00FD9B4B /* contact.html in Resources */ = {isa = PBXBuildFile; fileRef = 000C125F218B4AFA00FD9B4B /* contact.html */; };
+		000C1271218B4AFF00FD9B4B /* youtubedetail.html in Resources */ = {isa = PBXBuildFile; fileRef = 000C1260218B4AFA00FD9B4B /* youtubedetail.html */; };
+		000C1272218B4AFF00FD9B4B /* hotel.html in Resources */ = {isa = PBXBuildFile; fileRef = 000C1261218B4AFB00FD9B4B /* hotel.html */; };
+		000C1273218B4AFF00FD9B4B /* linedetail.html in Resources */ = {isa = PBXBuildFile; fileRef = 000C1262218B4AFB00FD9B4B /* linedetail.html */; };
+		000C1274218B4AFF00FD9B4B /* scss in Resources */ = {isa = PBXBuildFile; fileRef = 000C1263218B4AFC00FD9B4B /* scss */; };
+		000C1275218B4AFF00FD9B4B /* blog-single.html in Resources */ = {isa = PBXBuildFile; fileRef = 000C1264218B4AFC00FD9B4B /* blog-single.html */; };
+		000C1276218B4AFF00FD9B4B /* css in Resources */ = {isa = PBXBuildFile; fileRef = 000C1265218B4AFD00FD9B4B /* css */; };
+		000C1277218B4AFF00FD9B4B /* js in Resources */ = {isa = PBXBuildFile; fileRef = 000C1266218B4AFD00FD9B4B /* js */; };
+		000C1278218B4AFF00FD9B4B /* prepros-6.config in Resources */ = {isa = PBXBuildFile; fileRef = 000C1267218B4AFD00FD9B4B /* prepros-6.config */; };
+		000C1279218B4AFF00FD9B4B /* hotel-single.html in Resources */ = {isa = PBXBuildFile; fileRef = 000C1268218B4AFD00FD9B4B /* hotel-single.html */; };
+		000C127A218B4AFF00FD9B4B /* images in Resources */ = {isa = PBXBuildFile; fileRef = 000C1269218B4AFE00FD9B4B /* images */; };
+		000C127B218B4AFF00FD9B4B /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 000C126A218B4AFE00FD9B4B /* README.md */; };
+		000C127C218B4AFF00FD9B4B /* blog.html in Resources */ = {isa = PBXBuildFile; fileRef = 000C126B218B4AFE00FD9B4B /* blog.html */; };
+		000C127D218B4AFF00FD9B4B /* wifidetail.html in Resources */ = {isa = PBXBuildFile; fileRef = 000C126C218B4AFE00FD9B4B /* wifidetail.html */; };
+		000C127E218B4AFF00FD9B4B /* fonts in Resources */ = {isa = PBXBuildFile; fileRef = 000C126D218B4AFF00FD9B4B /* fonts */; };
+		000C127F218B4E8400FD9B4B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 000C1252218B4AA000FD9B4B /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +39,23 @@
 		000C1252218B4AA000FD9B4B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		000C1255218B4AA000FD9B4B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		000C1257218B4AA000FD9B4B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		000C125D218B4AFA00FD9B4B /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = index.html; path = "../../../../agit/ASSIST-ME/index.html"; sourceTree = "<group>"; };
+		000C125E218B4AFA00FD9B4B /* tour.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = tour.html; path = "../../../../agit/ASSIST-ME/tour.html"; sourceTree = "<group>"; };
+		000C125F218B4AFA00FD9B4B /* contact.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = contact.html; path = "../../../../agit/ASSIST-ME/contact.html"; sourceTree = "<group>"; };
+		000C1260218B4AFA00FD9B4B /* youtubedetail.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = youtubedetail.html; path = "../../../../agit/ASSIST-ME/youtubedetail.html"; sourceTree = "<group>"; };
+		000C1261218B4AFB00FD9B4B /* hotel.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = hotel.html; path = "../../../../agit/ASSIST-ME/hotel.html"; sourceTree = "<group>"; };
+		000C1262218B4AFB00FD9B4B /* linedetail.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = linedetail.html; path = "../../../../agit/ASSIST-ME/linedetail.html"; sourceTree = "<group>"; };
+		000C1263218B4AFC00FD9B4B /* scss */ = {isa = PBXFileReference; lastKnownFileType = folder; name = scss; path = "../../../../agit/ASSIST-ME/scss"; sourceTree = "<group>"; };
+		000C1264218B4AFC00FD9B4B /* blog-single.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = "blog-single.html"; path = "../../../../agit/ASSIST-ME/blog-single.html"; sourceTree = "<group>"; };
+		000C1265218B4AFD00FD9B4B /* css */ = {isa = PBXFileReference; lastKnownFileType = folder; name = css; path = "../../../../agit/ASSIST-ME/css"; sourceTree = "<group>"; };
+		000C1266218B4AFD00FD9B4B /* js */ = {isa = PBXFileReference; lastKnownFileType = folder; name = js; path = "../../../../agit/ASSIST-ME/js"; sourceTree = "<group>"; };
+		000C1267218B4AFD00FD9B4B /* prepros-6.config */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "prepros-6.config"; path = "../../../../agit/ASSIST-ME/prepros-6.config"; sourceTree = "<group>"; };
+		000C1268218B4AFD00FD9B4B /* hotel-single.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = "hotel-single.html"; path = "../../../../agit/ASSIST-ME/hotel-single.html"; sourceTree = "<group>"; };
+		000C1269218B4AFE00FD9B4B /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; name = images; path = "../../../../agit/ASSIST-ME/images"; sourceTree = "<group>"; };
+		000C126A218B4AFE00FD9B4B /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = "../../../../agit/ASSIST-ME/README.md"; sourceTree = "<group>"; };
+		000C126B218B4AFE00FD9B4B /* blog.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = blog.html; path = "../../../../agit/ASSIST-ME/blog.html"; sourceTree = "<group>"; };
+		000C126C218B4AFE00FD9B4B /* wifidetail.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = wifidetail.html; path = "../../../../agit/ASSIST-ME/wifidetail.html"; sourceTree = "<group>"; };
+		000C126D218B4AFF00FD9B4B /* fonts */ = {isa = PBXFileReference; lastKnownFileType = folder; name = fonts; path = "../../../../agit/ASSIST-ME/fonts"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +88,23 @@
 		000C124A218B4A9E00FD9B4B /* assistMe */ = {
 			isa = PBXGroup;
 			children = (
+				000C1264218B4AFC00FD9B4B /* blog-single.html */,
+				000C126B218B4AFE00FD9B4B /* blog.html */,
+				000C125F218B4AFA00FD9B4B /* contact.html */,
+				000C1265218B4AFD00FD9B4B /* css */,
+				000C126D218B4AFF00FD9B4B /* fonts */,
+				000C1268218B4AFD00FD9B4B /* hotel-single.html */,
+				000C1261218B4AFB00FD9B4B /* hotel.html */,
+				000C1269218B4AFE00FD9B4B /* images */,
+				000C125D218B4AFA00FD9B4B /* index.html */,
+				000C1266218B4AFD00FD9B4B /* js */,
+				000C1262218B4AFB00FD9B4B /* linedetail.html */,
+				000C1267218B4AFD00FD9B4B /* prepros-6.config */,
+				000C126A218B4AFE00FD9B4B /* README.md */,
+				000C1263218B4AFC00FD9B4B /* scss */,
+				000C125E218B4AFA00FD9B4B /* tour.html */,
+				000C126C218B4AFE00FD9B4B /* wifidetail.html */,
+				000C1260218B4AFA00FD9B4B /* youtubedetail.html */,
 				000C124B218B4A9E00FD9B4B /* AppDelegate.swift */,
 				000C124D218B4A9E00FD9B4B /* ViewController.swift */,
 				000C124F218B4A9E00FD9B4B /* Main.storyboard */,
@@ -122,8 +173,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				000C127F218B4E8400FD9B4B /* Assets.xcassets in Resources */,
+				000C127D218B4AFF00FD9B4B /* wifidetail.html in Resources */,
+				000C1276218B4AFF00FD9B4B /* css in Resources */,
 				000C1256218B4AA000FD9B4B /* LaunchScreen.storyboard in Resources */,
-				000C1253218B4AA000FD9B4B /* Assets.xcassets in Resources */,
+				000C127C218B4AFF00FD9B4B /* blog.html in Resources */,
+				000C1272218B4AFF00FD9B4B /* hotel.html in Resources */,
+				000C1274218B4AFF00FD9B4B /* scss in Resources */,
+				000C126E218B4AFF00FD9B4B /* index.html in Resources */,
+				000C1278218B4AFF00FD9B4B /* prepros-6.config in Resources */,
+				000C1270218B4AFF00FD9B4B /* contact.html in Resources */,
+				000C1279218B4AFF00FD9B4B /* hotel-single.html in Resources */,
+				000C127E218B4AFF00FD9B4B /* fonts in Resources */,
+				000C1271218B4AFF00FD9B4B /* youtubedetail.html in Resources */,
+				000C126F218B4AFF00FD9B4B /* tour.html in Resources */,
+				000C127B218B4AFF00FD9B4B /* README.md in Resources */,
+				000C1273218B4AFF00FD9B4B /* linedetail.html in Resources */,
+				000C127A218B4AFF00FD9B4B /* images in Resources */,
+				000C1275218B4AFF00FD9B4B /* blog-single.html in Resources */,
+				000C1277218B4AFF00FD9B4B /* js in Resources */,
 				000C1251218B4A9E00FD9B4B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -283,12 +351,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 8JXZUP2U84;
 				INFOPLIST_FILE = assistMe/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = irambosoft.assistMe;
+				PRODUCT_BUNDLE_IDENTIFIER = irambosoft.assist2Me;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -300,12 +369,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 8JXZUP2U84;
 				INFOPLIST_FILE = assistMe/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = irambosoft.assistMe;
+				PRODUCT_BUNDLE_IDENTIFIER = irambosoft.assist2Me;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
